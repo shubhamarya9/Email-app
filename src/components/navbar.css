@@ -1,0 +1,13 @@
+.ui.menu {
+  background-color: #3bac9c;
+}
+.ui.menu .item {
+  color: whitesmoke;
+}
+.ui.menu .item.active {
+  color: white;
+}
+
+.search-bar {
+  float: right;
+}

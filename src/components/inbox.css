@@ -1,0 +1,12 @@
+.inbox {
+  float: left;
+}
+.inbox h2 {
+  float: none;
+}
+.composeField {
+  float: left;
+}
+.submit-button {
+  background-color: teal;
+}
